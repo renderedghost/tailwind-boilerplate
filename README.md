@@ -81,4 +81,4 @@ to regenerate the production-ready CSS file after making changes to the configur
 
 ## License
 
-This boilerplate is available under the [MIT License](https://chat.openai.com/chat/LICENSE).
+This boilerplate is available under the [MIT License](https://github.com/tailwindlabs/tailwindcss/blob/fbbba6f67f73c3a4f9571649c3fc27006446d8f4/LICENSE).
