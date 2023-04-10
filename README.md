@@ -51,7 +51,7 @@ npm run build:css
 <link rel="stylesheet" href="dist/style.css" />
 ```
 
-## Usage For HTML projects
+## Usage For REACT projects
 
 1. Run the build script to generate the production-ready CSS file:
 
